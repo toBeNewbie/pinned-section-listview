@@ -94,7 +94,9 @@ public class PinnedSectionListActivity extends ListActivity implements OnClickLi
             }
             return view;
         }
-
+/*
+ÖÜ½ÜÂ×
+*/
         @Override public int getViewTypeCount() {
             return 2;
         }
